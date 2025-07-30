@@ -32,8 +32,7 @@ A simple "Simon Says" memory game built with HTML, CSS, and JavaScript.
 ---
 
 ## Demo
-
-![Simon Says Game Screenshot]<img width="767" height="440" alt="simon-says" src="https://github.com/user-attachments/assets/4e55a5aa-ac08-44ed-9975-25f9ecebc54e" />
+<img width="767" height="440" alt="simon-says" src="https://github.com/user-attachments/assets/4e55a5aa-ac08-44ed-9975-25f9ecebc54e" />
 
 
 ---
